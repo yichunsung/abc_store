@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 mysqlConnect.R
+member.csv
